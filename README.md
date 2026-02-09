@@ -39,6 +39,7 @@ Follow this [Microsoft guide](https://learn.microsoft.com/en-us/windows/mixed-re
 - **Cerebral Arterial System**: Created by [*Doctor Jana*](https://sketchfab.com/3d-models/circle-of-willis-arteries-of-brain-animated-25e3f5851d5044ffb333bd852a86f238) (purchased model under Standard License).
 
 ## Publications
+- Poupard, M., Larrue, F., Bertrand, M., Liguoro, D., Sauzéon, H., & Tricot, A. (2025). Enhancing Anatomy Learning Through Mixed Reality-Supported Drawing: Investigating Learning Performance, Cognitive Load, and Intrinsic Motivation. https://hal.science/hal-05050491 
 - Matisse Poupard, Florian Larrue, Martin Bertrand, Dominique Liguoro, André Tricot, Hélène Sauzéon. Guided Drawing in Medical Education: Evaluating AR and MR Systems for Anatomy Learning. STE 2024 - 4th International Conference on Science and Technology Education, Oct 2024, Porto, Portugal. [⟨hal-04816181⟩](https://hal.science/hal-04816181)
   
 ## Contact
